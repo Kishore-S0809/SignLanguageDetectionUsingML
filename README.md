@@ -36,4 +36,5 @@ SignLanguageDetectionUsingML/
 
 ## Author
 
-**Kishore**
+**Kishore S**
+@2025.all rights reserves
