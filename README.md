@@ -31,3 +31,9 @@ SignLanguageDetectionUsingML/
 ├── README.md # Project documentation
 ├── requirements.txt # Python dependencies
 └── app.py # Main application script
+
+
+
+## Author
+
+**Kishore**
